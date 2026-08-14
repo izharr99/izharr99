@@ -1,29 +1,73 @@
-### Hi, I'm Izhar 👋
+<div align="center">
 
-I plan projects like specs, then ship them like a founder: full-stack dev, 7+ years in, currently building with agentic AI as a default tool rather than an experiment.
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=140&section=header&text=IZHAR&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=FULL-STACK%20DEV%20%C2%B7%20AI-NATIVE%20BUILDER&descSize=17&descAlignY=78&descAlign=50&fontFamily=monospace)
 
-Full-stack developer based in Islamabad, PK. Daily drivers are Claude Code and Codex, planning architecture then executing agentic workflows end to end across every project.
+**SOFTWARE ENGINEER &nbsp;|&nbsp; FULL-STACK &nbsp;|&nbsp; AI-NATIVE BUILDER**
 
-#### what I actually build
+[![Website](https://img.shields.io/badge/Website-izhar.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://izhar.dev)
+[![Email](https://img.shields.io/badge/Email-contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.izhar11@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-profile-0d1117?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0171b1cd4729fea848?viewMode=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izharrr99)
 
-- **Full-stack products**: Next.js / React / TypeScript / Supabase, from data model to deployed UI. Not starter-kit templates.
-- **No-code to code migrations**: moved multiple clients off Bubble.io onto custom Next.js / React Native stacks without losing users or data.
-- **AI-native features**: LLMs and voice AI wired into real product flows, not a chatbot bolted on at the end.
-- **Integrations that actually stay wired**: Stripe, Twilio, SendGrid, n8n, OpenAI, local payment rails.
+</div>
 
-#### where I've done it
+<br>
 
-- **Freelance**, Full-Stack Developer, 2023 to now: AI-assisted dev across custom and no-code stacks
-- **Chakor**, Senior Developer, 2021 to 2023: Owned architecture and scoping, led a 6-person team
-- **Bricks**, Bubble Trainer, 2024: Ran a 3-month no-code dev bootcamp for new grads
+### ABOUT
 
-#### pinned below, worth a closer look
+I plan projects like specs, then ship them like a founder. 7+ years building full-stack products, now treating agentic AI as a default tool rather than an experiment. Daily drivers are Claude Code and Codex, planning architecture then executing end to end.
 
-- 🪞 **[vr-shop](https://github.com/izharr99/vr-shop)**: WebXR fitting room, upload a photo, get body-sized on-device (nothing leaves the browser), try on clothes in VR from a URL, no install.
-- ✂️ **[barber-ai](https://github.com/izharr99/barber-ai)**: AI hairstyle preview for barbers.
-- 🎮 **[brainrot-reflex](https://github.com/izharr99/brainrot-reflex)**: rapid-fire Android reflex game, Kotlin + Jetpack Compose.
-- ✍️ **[writing-style-skill](https://github.com/izharr99/writing-style-skill)**: a Claude skill that learns how *you* write and never lets AI sand the voice off it.
+```
+┌─────────────────────────────────────────────┐
+│ EXPERIENCE                                   │
+├─────────────────────────────────────────────┤
+│  7+ years professional software development  │
+│  Freelance full-stack developer since 2023   │
+│  Senior developer, owned architecture         │
+│  and led a 6-person team                     │
+└─────────────────────────────────────────────┘
+```
 
-#### stack
+### WHAT I BUILD
 
-`Next.js` `React` `TypeScript` `Node.js` `Supabase` `PostgreSQL` `Tailwind CSS` `Stripe` `Twilio` `n8n` `Bubble.io` `Xano` `Claude Code` `Codex` `OpenAI API`
+```
+┌─────────────────────────────────────────────┐
+│  FULL-STACK PRODUCTS                         │
+│  Next.js / React / TypeScript / Supabase     │
+├─────────────────────────────────────────────┤
+│  NO-CODE TO CODE MIGRATIONS                  │
+│  Bubble.io to custom Next.js / React Native  │
+├─────────────────────────────────────────────┤
+│  AI-NATIVE FEATURES                          │
+│  LLMs and voice AI wired into real products  │
+├─────────────────────────────────────────────┤
+│  INTEGRATIONS                                │
+│  Stripe, Twilio, SendGrid, n8n, OpenAI       │
+└─────────────────────────────────────────────┘
+```
+
+### PROJECTS
+
+- 🪞 **[vr-shop](https://github.com/izharr99/vr-shop)**: WebXR fitting room, on-device body sizing, try on clothes in VR from a URL, no install
+- ✂️ **[barber-ai](https://github.com/izharr99/barber-ai)**: AI hairstyle preview for barbers
+- 🎮 **[brainrot-reflex](https://github.com/izharr99/brainrot-reflex)**: rapid-fire Android reflex game, Kotlin + Jetpack Compose
+- ✍️ **[writing-style-skill](https://github.com/izharr99/writing-style-skill)**: a Claude skill that learns how *you* write
+
+### STACK
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+<br>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=110&section=header&text=OPEN%20FOR%20WORK&fontSize=36&fontColor=ffffff&fontAlignY=60&fontFamily=monospace)
+
+</div>
