@@ -46,11 +46,25 @@ I plan projects like specs, then ship them like a founder. 7+ years building ful
 └─────────────────────────────────────────────┘
 ```
 
-### PROJECTS
+### PRODUCTS
 
-- 🪞 **[vr-shop](https://github.com/izharr99/vr-shop)**: WebXR fitting room, on-device body sizing, try on clothes in VR from a URL, no install
-- ✂️ **[barber-ai](https://github.com/izharr99/barber-ai)**: AI hairstyle preview for barbers
-- 🎮 **[brainrot-reflex](https://github.com/izharr99/brainrot-reflex)**: rapid-fire Android reflex game, Kotlin + Jetpack Compose
+| | |
+| --- | --- |
+| 🏐 **[LUFT](https://github.com/izharr99/luft)** · [luft-vb.com](https://luft-vb.com) | My own volleyball league platform, live with a real community. Next.js 16, Supabase, Cloudflare |
+| 🩺 **[DocMaps](https://github.com/izharr99/docmaps)** · [docmaps.ca](https://docmaps.ca) | Ontario family doctor directory kept accurate by AI voice agents and LLM review. FastAPI, Next.js, Postgres |
+| 🧠 **[Datababy](https://github.com/izharr99/datababy)** · [datababy.io](https://datababy.io) | 360-degree behavioral assessment SaaS with an AI coach for HR and L&D teams. Next.js, OpenAI, Stripe |
+
+### FREE WEBSITE TEMPLATES
+
+| | |
+| --- | --- |
+| 📱 **[Veyra](https://github.com/izharr99/veyra)** · [live](https://veyra.izhar.dev) | 3D phone launch site with scroll-driven animation. Three.js, GSAP |
+| 🌅 **[Shafaq](https://github.com/izharr99/shafaq)** · [live](https://shafaq.izhar.dev) | Bilingual English/Arabic photographer portfolio with a sun-path dial |
+| 🏨 **[Lake 624](https://github.com/izharr99/lake-624)** · [live](https://lake624.izhar.dev) | Hotel and travel site with a scroll-scrubbed sunrise-to-sunset hero |
+| 🍔 **[Ember & Bun](https://github.com/izharr99/ember-and-bun)** · [live](https://emberandbun.izhar.dev) | Burger restaurant site with an exploding burger and WhatsApp ordering |
+
+### AI TOOLING
+
 - ✍️ **[writing-style-skill](https://github.com/izharr99/writing-style-skill)**: a Claude skill that learns how *you* write
 
 ### STACK
